@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "This is my First VM"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "PriySDK"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "PDK"
 )
 
 var ID ids.ID
